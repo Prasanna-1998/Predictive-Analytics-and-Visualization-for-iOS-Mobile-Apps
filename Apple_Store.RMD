@@ -1,6 +1,6 @@
 ---
 title: "Predictive Analytics and Visualization for iOS  Mobile Apps"
-author: "Laxmi Prasanna Gundabolu , Rutuja Shinde , Shivani Ghatge , Vinaya Chinti"
+author: "Lakshmi Prasanna Gundabolu"
 date: "5/8/2020"
 output: html_document
 ---
